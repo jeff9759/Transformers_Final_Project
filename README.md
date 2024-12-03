@@ -18,6 +18,18 @@ The next step involves scaling and refining the “Business GPT” system for br
 
 ## Resource Links
 
+1. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models:
+* Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., Le, Q. V., & Zhou, D. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. In Advances in Neural Information Processing Systems, 35, 24827–24837. https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html
+2. Large Language Models are Zero-Shot Reasoners:
+* Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). Large Language Models are Zero-Shot Reasoners. arXiv preprint arXiv:2205.11916. https://arxiv.org/pdf/2205.11916
+3. Automatic Chain of Thought Prompting in Large Language Models:
+* Zhang, Z., Zhang, A., Li, M., & Smola, A. (2022). Automatic Chain of Thought Prompting in Large Language Models. arXiv preprint arXiv:2210.03493. https://openreview.net/forum?id=5NTt8GFjUHkr
+4. Tree of Thoughts: Deliberate Problem Solving with Large Language Models:
+* Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T. L., Cao, Y., & Narasimhan, K. (2023). Tree of Thoughts: Deliberate Problem Solving with Large Language Models. arXiv preprint arXiv:2305.10601. https://export.arxiv.org/abs/2305.10601
+5. Large Language Model Guided Tree-of-Thought:
+* Long, J. (2023). Large Language Model Guided Tree-of-Thought. arXiv preprint arXiv:2305.08291. https://arxiv.org/pdf/2305.08291
+6. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks:
+* Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-T., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. In Advances in Neural Information Processing Systems, 33, 9459–9474. https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf
 
 
 
