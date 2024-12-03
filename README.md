@@ -94,6 +94,42 @@ Output:
 The company achieved $10 million in revenue for Q3 2024. Operating profit was $3 million, translating to a 30% operating margin. The net margin was reported at 20%, indicating strong profitability for the quarter.
 ```
 
+**5. Prompt Chaining**
+
+* Prompt chaining is a technique where the output of one prompt serves as the input for the next, creating a multi-step process to tackle complex tasks. This method allows for incremental refinement, intermediate validation, and handling of tasks that require breaking down into logical stages. It is particularly effective for workflows involving extraction, transformation, and response generation.
+
+```
+Prompt 1:
+You are an executive assistant tasked with extracting high-level financial indicators from the company’s quarterly reports, separated by ####. List the indicators in <indicators></indicators> tags. If no indicators are found, respond with “No indicators found!”.
+
+{{Quarterly Report}}
+
+Output 1:
+
+* Revenue: $50 million
+* EBITDA margin: 30%
+* Free cash flow: $12 million
+* Debt-to-equity ratio: 0.8
+* Return on equity: 15%
+
+Prompt 2:
+Based on the extracted financial indicators (enclosed in <indicators></indicators>) and the original quarterly report (separated by ####), create a high-level summary of the company’s financial health. Use a professional tone, focusing on strategic implications for decision-making.
+
+{{Quarterly Report}}
+
+<indicators>  
+- Revenue: $50 million  
+- EBITDA margin: 30%  
+- Free cash flow: $12 million  
+- Debt-to-equity ratio: 0.8  
+- Return on equity: 15%  
+</indicators>  
+
+Output 2:
+The company exhibits robust financial health, with revenue reaching $50 million and an EBITDA margin of 30%, indicating strong operational efficiency. A free cash flow of $12 million underscores its ability to reinvest in growth initiatives while maintaining liquidity. The debt-to-equity ratio of 0.8 reflects prudent capital management, while a return on equity of 15% highlights effective use of shareholder investments. These indicators position the company favorably for strategic expansions and sustained profitability.
+
+```
+
 
 ## Critical Analysis
 
