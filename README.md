@@ -138,13 +138,25 @@ The company exhibits robust financial health, with revenue reaching $50 million 
 ## Critical Analysis
 
 ### What is the impact of this project?
-The impact of this project lies in its potential to revolutionize how large organizations address communication and data-sharing inefficiencies. By implementing a tailored “Business GPT,” companies can eliminate the redundancies caused by siloed operations, enabling departments to access, share, and utilize data more effectively without requiring expensive centralized data warehouses. This system not only reduces resource wastage but also enhances decision-making by providing consistent, actionable insights aligned with overall business goals. The improved collaboration between departments can lead to increased productivity, faster project execution, and ultimately, greater profitability.
+This project has the potential to transform how large organizations overcome communication and data-sharing inefficiencies. By implementing a tailored “Business GPT,” companies can break down departmental silos and facilitate seamless access to and utilization of data without the need for centralized data warehouses. This approach minimizes resource wastage, accelerates decision-making, and ensures consistent, actionable insights that align with overarching business objectives. Enhanced collaboration across departments leads to greater operational efficiency, faster project completion, and ultimately, improved profitability. The system empowers organizations to function as cohesive entities, unlocking new levels of productivity and innovation.
 
 ### What does it reveal or suggest?
-This project reveals the critical role of AI-powered solutions like GPT in solving complex business challenges that traditional approaches struggle to address. It demonstrates that advanced prompt engineering techniques can bridge gaps in communication, streamline workflows, and ensure alignment across departments, even in data-diverse organizations. The success of this project suggests that companies should prioritize AI tools that enhance internal operations rather than solely focusing on customer-facing applications.
+This project underscores the transformative potential of AI-powered solutions like GPT in addressing deep-rooted organizational challenges. It highlights how advanced prompt engineering techniques can bridge communication gaps, standardize processes, and foster alignment across diverse departments. Unlike traditional approaches that focus on infrastructure-heavy solutions, this project suggests that businesses can leverage intelligent systems to achieve collaboration and efficiency dynamically. The success of the project reveals that AI tools, when tailored for internal operations, hold the key to resolving inefficiencies and enabling data-driven collaboration across teams.
 
 ### What is the next step?
-The next step involves scaling and refining the “Business GPT” system for broader use cases. This includes integrating the tool with existing enterprise software, expanding the library of tailored prompts, and incorporating feedback from employees to continuously improve performance. Additionally, exploring advanced techniques like reinforcement learning from human feedback (RLHF) could further optimize the model’s relevance and accuracy in addressing organizational needs. By taking these steps, the project can evolve into a robust, indispensable tool for fostering collaboration and driving innovation in large-scale businesses.
+The next step is to scale and refine the “Business GPT” system to address a wider range of use cases. This includes seamless integration with existing enterprise software, expanding and tailoring the prompt library for additional departmental needs, and gathering user feedback to enhance performance and usability. Further, adopting advanced techniques such as reinforcement learning from human feedback (RLHF) can improve the system’s adaptability and contextual relevance. By prioritizing continuous iteration and scalability, this project can evolve into an essential tool for fostering efficient communication, intelligent data sharing, and cross-departmental collaboration in large organizations.
+
+## Model Card for BusinessGPT
+
+* Base Model: GPT-based architecture with advanced prompt engineering.
+* Architecture: Transformer-based language model tailored for business use cases.
+* Dataset: Internal organizational documents and publicly available business datasets. Includes financial reports, marketing data, sales logs, and cross-departmental KPIs.
+* Input: Structured or unstructured business queries, for example: "Summarize last quarter's sales performance by region." or "Retrieve the marketing spend and ROI for the last three campaigns".
+* Output: Contextual responses or summaries, including tabular data representations, actionable recommendations or insights, and key metrics or trends relevant to the query.
+* Uses: Budget analysis, KPI tracking, variance reporting, campaign performance reviews, ROI insights, customer engagemnet analysis, sales forecasting, customer segmentation.
+* Limitations: Performance may vary with poorly structured or incomplete input queries. (Why good prompt engineering is needed)
+* Permissions: Restricted to authorized personnel within the organization, and with proper licensing with adherence to data privacy laws.
+
 
 ## Resource Links
 
