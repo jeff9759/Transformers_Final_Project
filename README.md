@@ -1,4 +1,4 @@
-# CollaborateGPT: Bridging Silos with Intelligent Prompt Engineering
+# BusinessGPT: Bridging Silos with Intelligent Prompt Engineering
 
 
 ## Overview
